@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707897279419,
+      "tag": "0000_warm_famine",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707898676380,
+      "tag": "0001_mighty_franklin_richards",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707899858480,
+      "tag": "0002_dizzy_shaman",
+      "breakpoints": true
+    }
+  ]
+}
